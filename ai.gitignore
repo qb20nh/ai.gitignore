@@ -1,0 +1,69 @@
+# --- Cursor ---
+.cursor/
+.cursorrules
+.cursorignore
+
+# --- Cline ---
+.cline/
+.clinerules
+.clinerules/
+
+# --- Roo Code ---
+.roo/
+.rooignore
+.roomodes
+
+# --- Windsurf ---
+.windsurf/
+.windsurfrules
+.windsurfignore
+
+# --- Codeium ---
+.codeium/
+.codeiumignore
+
+# --- Aider ---
+.aider/
+.aiderignore
+.aider.*
+
+# --- Claude Code ---
+.claude/
+.claudeignore
+CLAUDE.md
+
+# --- Gemini ---
+.gemini/
+.geminiignore
+GEMINI.md
+
+# --- Google Jules ---
+.jules/
+
+# --- Android Studio ---
+.aiexclude
+
+# --- Void Editor ---
+.void/
+
+# --- OpenCode ---
+.opencode/
+.opencodeignore
+
+# --- Kilo Code ---
+.kilo/
+.kilocodeignore
+
+# --- JetBrains AI ---
+.idea/ai/
+.idea/copilot/
+.aiignore
+
+# --- General Vector DB & Indexing Caches ---
+.embeddings/
+.vectors/
+.index/
+.cache/
+
+AGENT.md
+AGENTS.md
